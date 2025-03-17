@@ -1,11 +1,5 @@
 {
-  "npc1": {
-    "inicio": "¡Hola, viajero! Bienvenido a nuestro pueblo.",
-    "mision": "Necesito que recojas 5 manzanas para mí.",
-    "despedida": "¡Gracias! Aquí tienes tu recompensa."
-  },
-  "npc2": {
-    "inicio": "¡Cuidado! Hay monstruos en el bosque.",
-    "mision": "Si derrotas a 3 monstruos, te daré un premio."
-  }
+  "npc1.inicio": "Hola, bienvenido",
+  "npc1.mision": "Tu misión es encontrar la llave",
+  "npc1.despedida": "Buena suerte"
 }
