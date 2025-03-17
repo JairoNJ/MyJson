@@ -1,5 +1,9 @@
 {
-  "npc1.inicio": "Hola, bienvenido",
-  "npc1.mision": "Tu misión es encontrar la llave",
-  "npc1.despedida": "Buena suerte"
+  "c2array": true,
+  "size": [3, 1, 1],
+  "data": [
+    ["Hola, bienvenido a la aventura."],
+    ["Tu misión es encontrar la llave mágica."],
+    ["Buena suerte en tu viaje."]
+  ]
 }
