@@ -1,0 +1,18 @@
+{
+  "inicio": {
+    "texto": "Hola, viajero. ¿Qué deseas saber?",
+    "npc": "Anciano",
+    "opciones": {
+      "gema": "gema",
+      "criatura": "criatura"
+    }
+  },
+  "gema": {
+    "texto": "La gema está escondida en la montaña prohibida.",
+    "npc": "Anciano"
+  },
+  "criatura": {
+    "texto": "Una criatura peligrosa habita el bosque oscuro.",
+    "npc": "Anciano"
+  }
+}
