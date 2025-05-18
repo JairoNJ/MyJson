@@ -1,18 +1,4 @@
 {
-  "inicio": {
-    "npc": "Anciano",
-    "texto": "Hola, viajero. ¿Qué deseas saber?",
-    "opciones": {
-      "1": "¿Quién eres?",
-      "2": "¿Qué está pasando aquí?"
-    }
-  },
-  "1": {
-    "npc": "Anciano",
-    "texto": "Soy el guardián de este pueblo desde hace siglos."
-  },
-  "2": {
-    "npc": "Anciano",
-    "texto": "Una maldición ha caído sobre nosotros. Necesitamos tu ayuda."
-  }
+  "npc": "Anciano",
+  "texto": "Hola, viajero. ¿Qué deseas saber?"
 }
