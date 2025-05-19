@@ -7,5 +7,10 @@
     [["Se encuentra en la cueva oscura al otro lado del bosque.", "Guardian", "Dialogo1"]],
     [["Pero cuidado, está protegida por una criatura legendaria.", "Guardian", "Dialogo1"]],
     [["Confío en ti, toma esta espada para tu viaje.", "Guardian", "Dialogo1"]]
-  ]
+  ],
+  [["DADADADADADADADADA.", "MAGO", "Dialogo2"]],
+    [["AAGAGAGAGAGA.", "MAGO", "Dialogo1"]],
+    [["Se encuentra en la cueva oscura al otro lado del bosque.", "Guardian", "Dialogo1"]],
+    [["Pero cuidado, está protegida por una criatura legendaria.", "Guardian", "Dialogo1"]],
+    [["Confío en ti, toma esta espada para tu viaje.", "Guardian", "Dialogo1"]]
 }
