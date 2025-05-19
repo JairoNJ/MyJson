@@ -2,10 +2,10 @@
   "c2array": true,
   "size": [5, 1, 2],
   "data": [
-    [["Hola viajero, bienvenido a nuestra aldea.", "Guardian"]],
-    [["Necesitamos tu ayuda para recuperar la gema sagrada.", "Guardian"]],
-    [["Se encuentra en la cueva oscura al otro lado del bosque.", "Guardian"]],
-    [["Pero cuidado, está protegida por una criatura legendaria.", "Guardian"]],
-    [["Confío en ti, toma esta espada para tu viaje.", "Guardian"]]
+    [["Hola viajero, bienvenido a nuestra aldea.", "Guardian1"]],
+    [["Necesitamos tu ayuda para recuperar la gema sagrada.", "Guardian2"]],
+    [["Se encuentra en la cueva oscura al otro lado del bosque.", "Guardian3"]],
+    [["Pero cuidado, está protegida por una criatura legendaria.", "Guardian4"]],
+    [["Confío en ti, toma esta espada para tu viaje.", "Guardian5"]]
   ]
 }
