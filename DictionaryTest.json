@@ -1,13 +1,16 @@
 {
   "c2dictionary": true,
   "data": {
-    "Guardian": [
-      ["Hola viajero", "Guardian"],
-      ["Necesitamos tu ayuda", "Guardian"]
-    ],
-    "Mago": [
-      ["Has despertado la energía", "Mago"],
-      ["Aún hay esperanza", "Mago"]
-    ]
+    "Guardian": {
+      "c2array": true,
+      "size": [5, 1, 2],
+      "data": [
+        [["Hola viajero", "Guardian"]],
+        [["Necesitamos tu ayuda", "Guardian"]],
+        [["La gema está en la cueva", "Guardian"]],
+        [["Ten cuidado con el monstruo", "Guardian"]],
+        [["Toma esta espada", "Guardian"]]
+      ]
+    }
   }
 }
