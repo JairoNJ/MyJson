@@ -1,0 +1,13 @@
+{
+  "c2dictionary": true,
+  "data": {
+    "Guardian": [
+      ["Hola viajero", "Guardian"],
+      ["Necesitamos tu ayuda", "Guardian"]
+    ],
+    "Mago": [
+      ["Has despertado la energía", "Mago"],
+      ["Aún hay esperanza", "Mago"]
+    ]
+  }
+}
