@@ -1,9 +1,9 @@
 {
   "Guardian": {
     "c2array": true,
-    "size": [2, 5, 1],
+    "size": [5, 1, 2],
     "data": [
-      [["Hola viajero"], ["Guardian"]],
+      [["Hola viajero", "Guardian"]],
       [["Necesitamos tu ayuda"], ["Guardian"]],
       [["La gema está en la cueva"], ["Guardian"]],
       [["Ten cuidado con el monstruo"], ["Guardian"]],
