@@ -1,16 +1,18 @@
 {
   "c2array": true,
-  "size": [5, 2, 3],
+  "size": [9, 1, 3],
   "data": [
     [["Hola viajero, bienvenido a nuestra aldea.", "Guardian", "Dialogo1"]],
     [["Necesitamos tu ayuda para recuperar la gema sagrada.", "Guardian", "Dialogo1"]],
     [["Se encuentra en la cueva oscura al otro lado del bosque.", "Guardian", "Dialogo1"]],
-    [["Pero cuidado, está protegida por una criatura legendaria.", "Guardian", "Dialogo1"]],
-    [["Confío en ti, toma esta espada para tu viaje.", "Guardian", "Dialogo1"]]
-  ],
-  [["DADADADADADADADADA.", "MAGO", "Dialogo2"]],
-    [["AAGAGAGAGAGA.", "MAGO", "Dialogo1"]],
-    [["Se encuentra en la cueva oscura al otro lado del bosque.", "Guardian", "Dialogo1"]],
-    [["Pero cuidado, está protegida por una criatura legendaria.", "Guardian", "Dialogo1"]],
-    [["Confío en ti, toma esta espada para tu viaje.", "Guardian", "Dialogo1"]]
+    
+    [["¿Has sentido una energía extraña en el bosque?", "Mago", "Dialogo2"]],
+    [["Estoy investigando una fuente de poder ancestral.", "Mago", "Dialogo2"]],
+    [["Necesitaré tu ayuda más adelante.", "Mago", "Dialogo2"]],
+    
+    [["Hola joven, ¿puedes ayudarme a cargar estas cajas?", "Aldeano", "Dialogo3"]],
+    [["Mi espalda ya no es la de antes...", "Aldeano", "Dialogo3"]],
+    [["Gracias por tu ayuda, eres muy amable.", "Aldeano", "Dialogo3"]]
+  ]
 }
+
