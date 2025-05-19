@@ -1,0 +1,35 @@
+{
+  "Guardian": {
+    "c2array": true,
+    "size": [2, 5, 1],
+    "data": [
+      [["Hola viajero"], ["Guardian"]],
+      [["Necesitamos tu ayuda"], ["Guardian"]],
+      [["La gema está en la cueva"], ["Guardian"]],
+      [["Ten cuidado con el monstruo"], ["Guardian"]],
+      [["Toma esta espada"], ["Guardian"]]
+    ]
+  },
+  "Mago": {
+    "c2array": true,
+    "size": [2, 5, 1],
+    "data": [
+      [["Has despertado la energía"], ["Mago"]],
+      [["Aún hay esperanza"], ["Mago"]],
+      [["Debes dominar la magia"], ["Mago"]],
+      [["Sobrevive al ritual"], ["Mago"]],
+      [["Este grimorio te ayudará"], ["Mago"]]
+    ]
+  },
+  "Caballero": {
+    "c2array": true,
+    "size": [2, 5, 1],
+    "data": [
+      [["Eres valiente"], ["Caballero"]],
+      [["Muchos han fallado"], ["Caballero"]],
+      [["Tienes determinación"], ["Caballero"]],
+      [["Lucha con honor"], ["Caballero"]],
+      [["Esta armadura te protegerá"], ["Caballero"]]
+    ]
+  }
+}
