@@ -1,0 +1,10 @@
+{
+  "c2array": true,
+  "size": [4, 1, 6],
+  "data": [
+    [["¿Cuál es la capital de Colombia?", "Bogotá", "Medellín", "Cali", "Barranquilla", "Bogotá"]],
+    [["¿Cuál es el río más largo del mundo?", "Nilo", "Amazonas", "Yangtsé", "Mississippi", "Amazonas"]],
+    [["¿Quién escribió 'Cien años de soledad'?", "Mario Vargas Llosa", "Julio Cortázar", "Gabriel García Márquez", "Isabel Allende", "Gabriel García Márquez"]],
+    [["¿Qué planeta es el cuarto del sistema solar?", "Venus", "Tierra", "Marte", "Júpiter", "Marte"]]
+  ]
+}
